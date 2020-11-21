@@ -1,0 +1,271 @@
+#victory {
+    border-bottom: 1px solid black;
+    padding: 2%;
+}
+
+#victory a {
+    margin-left: 42%;
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+#intro_exapmle {
+    position: relative;
+}
+
+#ban_p {
+    margin-top: 15%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#ban_p1 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#ban_h {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 5vw;
+}
+
+#span_head {
+    margin-bottom: 15%;
+    margin-top: 5%;
+}
+
+#span {
+    padding: 12px;
+    background-color: rgb(242, 116, 95);
+    border-radius: 5px;
+    margin-top: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#navbarTogglerDemo02 a {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#navbarTogglerDemo02 {
+    padding: 2%;
+}
+
+#ban_p {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#col {
+    align-items: center;
+}
+
+#para {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+footer {
+    padding: 1%;
+    background-color:rgb(54,62,80);
+   
+}
+
+#image h4 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#image img {
+    width: 70%;
+    border-radius: 50%;
+    border: 7px solid rgb(234, 240, 255);
+    margin-bottom: 8%;
+}
+
+#form1 {
+    margin-bottom: 14%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#tablehead {
+    margin-top: 10%;
+}
+
+.news {
+    padding-bottom: 10%;
+}
+
+#news1 {
+    color: white;
+}
+
+.app {
+    text-align: center;
+    padding: 5%;
+    background-color: rgb(242, 116, 95);
+}
+
+.app h4 {
+    color: white;
+    margin-bottom: 2%;
+}
+
+.card img {
+    text-align: center;
+    align-self: center;
+}
+
+#card1 {
+    border-bottom: 1px solid black;
+    margin-bottom: 6%;
+}
+
+#span7 {
+    padding: 7px;
+    background-color: rgb(246, 242, 235);
+    color: rgb(242, 116, 95);
+}
+
+.feature {
+    padding-bottom: 1%;
+}
+
+.feat-head h4 {
+    text-align: center;
+    margin: 3%;
+}
+
+.our-blog {
+    /* background-color: rgb(242, 246, 255); */
+    padding-bottom: 6%;
+}
+
+.bloghead h4 {
+    text-align: center;
+    padding: 1%;
+}
+
+.divcontent {
+    background-color: #F2745F;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.divcontent1 {
+    background-color: #F3826F;
+}
+
+.span1 {
+    border-radius: 50%;
+    border: 1px solid #F3826F;
+}
+
+.span2 {
+    background-color: white;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+#text {
+    padding: 5%;
+}
+
+#text1 h1 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.menuhead h5 {
+    border-bottom: 1px solid grey;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card h6 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card p {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#pagination:hover {
+    background-color: rgb(242, 116, 95);
+    color: white;
+}
+
+.map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.mhead h5 {
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 4%;
+}
+
+.mcontent p {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #9a9a9a;
+}
+
+.mcontent h5 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #9a9a9a;
+}
+
+#icon {
+    padding: 2%;
+    border-radius: 50%;
+    background-color: white;
+    color: rgb(54, 62, 80);
+}
+
+.navbar-nav a:hover {
+    /* background-color: rgb(242, 116, 95); */
+    /* color: white; */
+    text-shadow: #F2745F;
+    border-bottom:1px solid black;
+    
+}
+#smilebtn{ 
+    text-decoration: none;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: left;
+}
+.card-body{
+    font-family:'Josefin Sans', sans-serif ;
+}
+.card{
+    margin-top: 2%;
+    border:none;
+    background-color: rgb(234,240,255);
+}
+body{
+    background-image: url('image/bg6.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#headerimg{
+    background-image: url('image/bg8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hidden
+{
+    visibility: visible;
+  opacity: 1;
+  transition: visibility 0s 2s, opacity 2s linear;
+}
